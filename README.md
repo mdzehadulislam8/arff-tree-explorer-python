@@ -12,13 +12,13 @@ A simple and interactive Python application for loading ARFF datasets, comparing
 ---
 
 ## 📸 Demo Preview
-### Home-Page
+### Home-Page:
 ![Home Page](https://drive.google.com/uc?export=view&id=1IznJGMQeC-MaQHC7CWBVKJJ-od1O5w4F)
-### Classifier Comparison Module
+### Classifier Comparison Module:
 ![Classifier Comparison Module](https://drive.google.com/uc?export=view&id=1Gwip2d5pp4L6DVw_zYlBACKoAdpR6DDS)
-### Decision Tree Visualization Module
+### Decision Tree Visualization Module:
 ![Decision Tree Visualization Module](https://drive.google.com/uc?export=view&id=1RJEtSc6qZ_dLksylsHbX6q6mlqlDIaHe)
-### J48 Tree Visualization Module
+### J48 Tree Visualization Module:
 ![J48 Tree Visualization Module](https://drive.google.com/uc?export=view&id=1vr-ku4Lq1Ja9mutwV1PDis9JfLC6mDLw)
 
 
