@@ -42,6 +42,7 @@ project/
 ├─ arff_tree_explorer/
 ├─ sample_data/
 ├─ requirements.txt
+└─ README.md
 ```
 
 ## 👨‍💻 Authors
