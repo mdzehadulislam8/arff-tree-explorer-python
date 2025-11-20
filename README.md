@@ -4,6 +4,13 @@ A simple and interactive Python application for loading ARFF datasets, comparing
 
 ---
 
+## 🗂️ Flowchart
+![Flowchart](https://drive.google.com/uc?export=view&id=1obfMWwPutTZKcPcoVI9ojAxZlUl8rXpT)  
+
+
+---
+---
+
 ## 📸 Demo Preview
 ### Home-Page:
 ![Home Page](https://drive.google.com/uc?export=view&id=1IznJGMQeC-MaQHC7CWBVKJJ-od1O5w4F)
