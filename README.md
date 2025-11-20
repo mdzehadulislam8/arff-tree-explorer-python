@@ -6,7 +6,7 @@ A simple and interactive Python application for loading ARFF datasets, comparing
 
 ## 📸 Demo Preview
 ### Home-Page:
-!([https://drive.google.com/file/d/1IznJGMQeC-MaQHC7CWBVKJJ-od1O5w4F/view?usp=drive_link](https://drive.google.com/file/d/1IznJGMQeC-MaQHC7CWBVKJJ-od1O5w4F/view?usp=drive_link))
+!([https://raw.githubusercontent.com/username/repo/main/images/flowchart.png](https://drive.google.com/file/d/1IznJGMQeC-MaQHC7CWBVKJJ-od1O5w4F/view?usp=drive_link))
 
 ---
 
