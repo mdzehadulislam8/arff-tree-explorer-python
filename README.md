@@ -6,8 +6,8 @@ A simple and interactive Python application for loading ARFF datasets, comparing
 
 ## 📸 Demo Preview
 
-![Home-Page](<img width="955" height="343" alt="z4" src="https://github.com/user-attachments/assets/743c968b-f4cc-4ca7-a490-b420ee5ec0cc" />
-)
+![Home-Page]([<img width="955" height="343" alt="z4" src="https://github.com/user-attachments/assets/743c968b-f4cc-4ca7-a490-b420ee5ec0cc" />
+](https://drive.google.com/file/d/1IznJGMQeC-MaQHC7CWBVKJJ-od1O5w4F/view?usp=drive_link))
 
 ---
 
