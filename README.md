@@ -6,9 +6,7 @@ A simple and interactive Python application for loading ARFF datasets, comparing
 
 ## 📸 Demo Preview
 
-![Home-Page](<img width="1122" height="373" alt="z5" src="https://github.com/user-attachments/assets/f00874b4-ca07-4133-9551-bf6b500db8ef" />
-)
-![ Classifier Comparison Module](<img width="955" height="343" alt="z4" src="https://github.com/user-attachments/assets/bf0a244f-85dd-4788-8b58-1b8cd7b192c8" />
+![Home-Page](<img width="955" height="343" alt="z4" src="https://github.com/user-attachments/assets/743c968b-f4cc-4ca7-a490-b420ee5ec0cc" />
 )
 
 ---
