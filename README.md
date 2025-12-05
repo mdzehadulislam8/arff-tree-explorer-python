@@ -2,12 +2,14 @@
 *A Python-Based Machine Learning Visualization Tool for ARFF Datasets*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Framework-Tkinter-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/ML-Library-Scikit--Learn-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/File_Format-ARFF-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Visualization-Matplotlib-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Tkinter-Desktop%20GUI-2E8B57?style=for-the-badge&logo=windowsterminal&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/ARFF-Data%20Format-FFD700?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-0C5C8C?style=for-the-badge&logo=plotly&logoColor=white">
 </p>
+
+
 
 ---
 
